@@ -1,0 +1,40 @@
+1. CV Shorter:
+    Use- To shortlist cvs based on Company Requirement
+    I/O- a word or text formatted cvs and the output will be shortlisted cv based on the Company Requirement
+
+2. Shortest Path:
+    Use - to fetch the shortest path for going one place to another
+    I/O - two places pointed in the map and the output will be the shortest path if possible
+    maxmimum use cases can be seen for the ambulances
+
+3. Spam Identifiers:
+    Use- Identifying Spam Emails and Messages
+    I/O- Any incoming email or text message and it will automatically move move the text to trash if its a Spam
+
+4. Product Recomendation:
+    Use- To recommend releavant products to user to boost the business sell in an e-commerce companny
+    I/O- this algorithm will monitor users search on the website its working and automatically recommend the user products based on his/her current search pattern
+
+5. Virtual Assistance:
+    Use- Helping the user with his/her online works just like Google Assistance, Amazon Alexa
+    I/O - Any Voice Over or text input from the user and do the work accordingly Like: Searching some on the web, Making a Reminder, Call Somebody
+
+6. Real Time People Counter:
+    Use - Counting People Entering and Exiting from a store and track the count of the total number of people inside  the store
+    I/O- A webcam or a clear cctv footage for tracking the people entering and exiting from the store
+
+7. Spelling Corrector:
+    Use- correct the spelling of a user on the go in a text editor or an IDE
+    I/O - any word in the Text Editor or in the IDE the algorithm will suggest the user the right spelling if it is wrong bychance
+
+8. Face Mask Detector:
+    Use- To detect whether a person is wearing facemask or not
+    I/O - A webcam or a clear cctv footage for tracking the people in certain range and to will point out the person who is not wearing a facemask
+
+9. Smart attendance system for online classes:
+    Use- taking attendance for the student in an online class.
+    I/O - A screenshot of the online class and the algorithm will automatically detect the students and will update the attendance in the database
+
+10. Road Condition Checker:
+    Use - To detect potholes and bad conditions of the Road and notify the Condition of the road
+    I/O - A camera in a moving object(i.e. Car) to check for potholes in its visible area and count the potholes and updates the databases that certain portion of the city road needs repair.
